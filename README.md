@@ -1,9 +1,9 @@
-"# Banking-system" 
+# Banking-system
 Built a smart contract for Banking System.
 This project focuses on developing a DeFi app.
 
 This repository presents practices about:
-- Write tests for the developed Ethereum smart contracts. 
+- Develop Ethereum smart contracts. 
 
 ---
 
